@@ -18,6 +18,7 @@ If you have any questions about the stuff I am working on or on [Jetbrains MPS](
 
 ## 📫 How to find me
 * [Xing](https://www.xing.com/profile/Alexander_Rimer2)
+* [linkedin](https://www.linkedin.com/in/alexander-rimer-667ba1230)
 * 💬 [MPS Slack](http://slack-mps.jetbrains.com/)
 
 
