@@ -18,7 +18,7 @@ If you have any questions about the stuff I am working on or on [Jetbrains MPS](
 
 ## 📫 How to find me
 * [Xing](https://www.xing.com/profile/Alexander_Rimer2)
-* [linkedin](https://www.linkedin.com/in/alexander-rimer-667ba1230)
+* [linkedin](https://de.linkedin.com/in/alexander-r-667ba1230?trk=people-guest_people_search-card)
 * 💬 [MPS Slack](http://slack-mps.jetbrains.com/)
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=arimer&rank_icon=github&icon_color=539BF5&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
